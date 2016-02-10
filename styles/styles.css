@@ -1,0 +1,73 @@
+h1{
+    color: purple;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+body {
+        background-color: lightblue;
+}
+
+#links {
+    width: 60%;
+    margin: 35px auto;
+}
+
+#ed {
+    margin: auto;
+    display: block;
+}
+
+body{
+    text-decoration: underline;
+}
+
+#logo {
+    margin: 80px auto;
+    display: block;
+}
+
+#top_left {
+    width: 33%;
+    float:left;
+    text-align: center;
+}
+
+#top_middle {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+#top_right {
+    width:33%;
+    float: left;
+    text-align: center;
+}
+
+#main_content{
+    background-color: blue;
+    width: 60%;
+    margin: 100px auto;
+}
+
+#main_left {
+    background-color: black;
+    float:left;
+    width: 33%;
+}
+
+#main_middle {
+    background-color: yellow;
+    float:left;
+    width: 33%;
+}
+#main_right {
+    background-color: purple;
+    float: left;
+    width:33%;
+}
+
+#top_content {
+    margin-top: 250px;
+}
